@@ -1,0 +1,9 @@
+1. if dingin and asam and kurang = buruk
+2. if dingin and netral and kurang = buruk
+3. if dingin and basa and kurang = buruk
+4. if hangat and asam and cukup = buruk
+5. if hangat and netral and cukup = baik
+6. if hangat and basa and cukup = buruk
+7. if panas and asam and kurang = buruk
+8. if panas and netral and kurang = buruk
+9. if panas and basa and kurang = buruk

@@ -1,0 +1,5 @@
+hasil comparasi perbandingan metode mamdani dan tsukamoto dalam penentuan tingkat kualitas air pada kolam ikan dalam budidaya ikan nila
+percobaan pada variabel suhu : pengujian
+
+1. adib_043 : data FIS pada penelitian digunakan untuk inputan jangka pan
+2. 
